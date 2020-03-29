@@ -1,0 +1,22 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ifelse-codes/leetcode.git"
+  },
+  "keywords": [
+    "leetcode"
+  ],
+  "author": "Suman Patra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ifelse-codes/leetcode/issues"
+  },
+  "homepage": "https://github.com/ifelse-codes/leetcode#readme"
+}
